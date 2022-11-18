@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ The SED is involved in developing and testing different Earthquake Early Warning (EEW) algorithms in Switzerland and around the world. We focus on building operational software that allows us to account for complex EEW scenarios while at the same time making warnings faster and more accurate. We also build tools for disseminating EEW to end users. 
+🙋‍♀️ The SED is involved in developing and testing different Earthquake Early Warning (EEW) algorithms in Switzerland and around the world. We focus on building operational software that allows us to account for complex EEW scenarios while making warnings faster and more accurate. We also build tools for disseminating EEW to end users. 
 
-👩‍💻 Useful resources can be found at http://www.seismo.ethz.ch/en/research-and-teaching/fields_of_research/earthquake-early-warning/.
+👩‍💻 Further useful resources can be found on [the EEW group page of the ETHZ-SED website](http://www.seismo.ethz.ch/en/research-and-teaching/fields_of_research/earthquake-early-warning/).
 
 
 <!--
